@@ -1,6 +1,8 @@
-Project Title: All Examples of "Grokking Deep Learning by Andrew Trask" Python Codes in Java without libraries
+Project Title: All Examples of "Grokking Deep Learning by Andrew Trask" Python Codes in Java without Libraries
 
-Theoretical Side Source: Grokking Deep Learning by Andrew Trask
+Projects Can Be Found at SubPackages under GrokkingDeepLearningExamples/src/main/java/com/elecdrones/
+
+Theoretical Side Source: "Grokking Deep Learning" by Andrew Trask
 
 Build with: Java Programming Language
 

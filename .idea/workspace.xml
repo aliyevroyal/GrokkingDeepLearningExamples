@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c44c2b50-b69e-4294-b491-bc749b397b79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/GradientDescentLearningWithMultipleInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/GradientDescentWithMultipleInputs/GradientDescentWithMultipleInputs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/LinearAlgebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/LinearAlgebra/LinearAlgebra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation/NeuralNetworksWithBackPropagation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/OneIterationOfGradientDescent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/GradientDescentWithSingleIteration/GradientDescentWithSingleIteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN2LayersExample/NeuralNetworks2WithLayersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith2LayersExample/NeuralNetworksWith2LayersExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN2LayersExample/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith2LayersExample/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN2LayersExample/theoreticalSide/Grooking Neural Network Example with 2 Layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith2LayersExample/theoreticalSide/Grooking Neural Network Example with 2 Layers.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/NeuralNetworksWith3layersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/NeuralNetworksWith3layersExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(1).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(2).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,6 +153,7 @@
       <updated>1573950593256</updated>
       <workItem from="1573950594533" duration="280000" />
       <workItem from="1573951223910" duration="1079000" />
+      <workItem from="1573952573080" duration="98000" />
     </task>
     <servers />
   </component>
@@ -178,7 +165,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
