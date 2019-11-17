@@ -1,8 +1,8 @@
-package com.elecdrones.grookingNN2LayersExample;
+package com.elecdrones.NeuralNetworksWith2LayersExample;
 
 import java.util.ArrayList;
 
-class NeuralNetworks2WithLayersExample {
+class NeuralNetworksWith2LayersExample {
     public static void main(String[] args) {
         ArrayList<Double> theNumberOfToesArrayList = new ArrayList<>();
         theNumberOfToesArrayList.add(8.5);

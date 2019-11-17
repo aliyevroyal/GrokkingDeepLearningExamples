@@ -1,9 +1,11 @@
-package com.elecdrones;
+package com.elecdrones.NeuralNetworksWithBackPropagation;
+
+import com.elecdrones.LinearAlgebra.LinearAlgebra;
 
 import java.util.ArrayList;
 
 public class NeuralNetworksWithBackPropagation {
-    public static double alpha = 0.01;
+    private static double alpha = 0.01;
 
     public static void main(String args[]) {
         LinearAlgebra linearAlgebra = new LinearAlgebra();

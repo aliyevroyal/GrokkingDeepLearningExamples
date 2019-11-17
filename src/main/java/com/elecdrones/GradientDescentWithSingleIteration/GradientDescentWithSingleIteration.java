@@ -1,6 +1,6 @@
-package com.elecdrones;
+package com.elecdrones.GradientDescentWithSingleIteration;
 
-class OneIterationOfGradientDescent {
+class GradientDescentWithSingleIteration {
     public static void main(String[] args) {
         double input = 1.1;
         double weight = 0.0;

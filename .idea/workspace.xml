@@ -1,18 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c44c2b50-b69e-4294-b491-bc749b397b79" name="Default Changelist" comment="" />
+    <list default="true" id="c44c2b50-b69e-4294-b491-bc749b397b79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/GradientDescentLearningWithMultipleInputs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/GradientDescentWithMultipleInputs/GradientDescentWithMultipleInputs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/LinearAlgebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/LinearAlgebra/LinearAlgebra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation/NeuralNetworksWithBackPropagation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/OneIterationOfGradientDescent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/GradientDescentWithSingleIteration/GradientDescentWithSingleIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN2LayersExample/NeuralNetworks2WithLayersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith2LayersExample/NeuralNetworksWith2LayersExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN2LayersExample/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith2LayersExample/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN2LayersExample/theoreticalSide/Grooking Neural Network Example with 2 Layers.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith2LayersExample/theoreticalSide/Grooking Neural Network Example with 2 Layers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/NeuralNetworksWith3layersExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/NeuralNetworksWith3layersExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(1).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elecdrones/grookingNN3layersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(2).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWith3LayersExample/theoreticalSide/Grooking Neural Network Example with 3 Layers(2).png" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Til33sbIMAzk6q7qxoO6rvxw0Q" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -21,7 +49,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.elecdrones.NeuralNetworksWithBackPropagation" />
+      <recent name="com.elecdrones.GradientDescentWithSingleIteration" />
+      <recent name="com.elecdrones.LinearAlgebra" />
+      <recent name="com.elecdrones.GradientDescentWithMultipleInputs" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/elecdrones/NeuralNetworksWithBackPropagation" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
@@ -37,9 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="NeuralNetworksWithBackPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.elecdrones.NeuralNetworksWithBackPropagation" />
+  <component name="RunManager" selected="Application.NeuralNetworksWithBackPropagation">
+    <configuration name="GradientDescentWithMultipleInputs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elecdrones.GradientDescentWithMultipleInputs" />
       <module name="GrokkingDeepLearningExamples" />
       <extension name="coverage">
         <pattern>
@@ -51,9 +86,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GradientDescentWithSingleIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elecdrones.GradientDescentWithSingleIteration.GradientDescentWithSingleIteration" />
+      <module name="GrokkingDeepLearningExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elecdrones.GradientDescentWithSingleIteration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeuralNetworks2WithLayersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elecdrones.NeuralNetworksWith2LayersExample.NeuralNetworks2WithLayersExample" />
+      <module name="GrokkingDeepLearningExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elecdrones.NeuralNetworksWith2LayersExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeuralNetworksWith3layersExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elecdrones.NeuralNetworksWith3LayersExample.NeuralNetworksWith3layersExample" />
+      <module name="GrokkingDeepLearningExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elecdrones.NeuralNetworksWith3LayersExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeuralNetworksWithBackPropagation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.elecdrones.NeuralNetworksWithBackPropagation.NeuralNetworksWithBackPropagation" />
+      <module name="GrokkingDeepLearningExamples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elecdrones.NeuralNetworksWithBackPropagation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.NeuralNetworks2WithLayersExample" />
+      <item itemvalue="Application.NeuralNetworksWith3layersExample" />
+      <item itemvalue="Application.GradientDescentWithMultipleInputs" />
+      <item itemvalue="Application.GradientDescentWithSingleIteration" />
+      <item itemvalue="Application.NeuralNetworksWithBackPropagation" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.NeuralNetworksWithBackPropagation" />
+        <item itemvalue="Application.GradientDescentWithSingleIteration" />
+        <item itemvalue="Application.GradientDescentWithMultipleInputs" />
+        <item itemvalue="Application.NeuralNetworksWith3layersExample" />
+        <item itemvalue="Application.NeuralNetworks2WithLayersExample" />
       </list>
     </recent_temporary>
   </component>
@@ -68,10 +166,22 @@
       <option name="presentableId" value="Default" />
       <updated>1573950593256</updated>
       <workItem from="1573950594533" duration="280000" />
+      <workItem from="1573951223910" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

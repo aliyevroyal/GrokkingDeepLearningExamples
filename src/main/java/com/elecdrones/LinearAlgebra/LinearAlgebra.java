@@ -5,12 +5,12 @@
  * Time:00:04
  */
 
-package com.elecdrones;
+package com.elecdrones.LinearAlgebra;
 
 import java.util.ArrayList;
 import java.util.Random;
 
-class LinearAlgebra {
+public class LinearAlgebra {
     /**
      * Constructor with 0 Argument
      */

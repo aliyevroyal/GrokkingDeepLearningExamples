@@ -1,11 +1,11 @@
-package com.elecdrones;
+package com.elecdrones.GradientDescentWithMultipleInputs;
 
-
+import com.elecdrones.LinearAlgebra.LinearAlgebra;
 import com.sun.istack.internal.NotNull;
 
 import java.util.ArrayList;
 
-class GradientDescentLearningWithMultipleInputs {
+class GradientDescentWithMultipleInputs {
     private static final double alpha = 0.01;
 
     public static void main(String args[]) {

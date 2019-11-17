@@ -1,4 +1,4 @@
-package com.elecdrones.grookingNN3layersExample;
+package com.elecdrones.NeuralNetworksWith3LayersExample;
 
 import java.util.ArrayList;
 
